@@ -150,3 +150,7 @@ test_logs/
 logs/
 tensorboard/
 src/
+
+
+#datasets
+/data
